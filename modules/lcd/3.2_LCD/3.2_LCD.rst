@@ -1,0 +1,31 @@
+
+3.2' LCD Resistive touch 320x240
+=================================
+
+Resource Downlaod
+------------------
+* `Click me to download <https://01studio-1258570164.cos.ap-guangzhou.myqcloud.com/Resource_Download_EN/Modules_and_Accessories/%E6%98%BE%E7%A4%BA%E5%B1%8F/05-3.2%E5%AF%B8LCD%E7%94%B5%E9%98%BB%E8%A7%A6%E6%91%B8%E5%B1%8F320x240.rar>`_ (Chinese)
+
+Product Picture
+----------------
+
+.. figure:: media/3.2_lcd.png
+
+  3.2' LCD(Resistive touch)
+
+
+Purchase
+--------------
+- 01Studio AliExpress store：https://www.aliexpress.com/store/5598484
+
+
+Technical Support
+------------------
+- support@01studio.org
+
+
+About 01Studio
+--------------
+
+  | :ref:`Introduction <about>`  
+  | :ref:`Contact us <about>`

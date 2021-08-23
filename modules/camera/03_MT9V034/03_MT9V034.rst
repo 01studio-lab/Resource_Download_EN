@@ -1,0 +1,35 @@
+
+MT9V034 Global shutter
+=======================
+
+Resource Downlaod
+------------------
+* `Click me to download <https://01studio-1258570164.cos.ap-guangzhou.myqcloud.com/Resource_Download_EN/Modules_and_Accessories/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A8%A1%E5%9D%97/03-MT9V034%E5%85%A8%E5%B1%80%E5%BF%AB%E9%97%A8.rar>`_ (Chinese)
+
+Product Picture
+----------------
+
+.. figure:: media/MT9V034_1.jpg
+
+  MT9V034  Global shutter
+  
+.. figure:: media/MT9V034_2.jpg
+   
+  OpenMV + MT9V034
+
+
+Purchase
+--------------
+- 01Studio AliExpress store：https://www.aliexpress.com/store/5598484
+
+
+Technical Support
+------------------
+- support@01studio.org
+
+
+About 01Studio
+--------------
+
+  | :ref:`Introduction <about>`  
+  | :ref:`Contact us <about>`
