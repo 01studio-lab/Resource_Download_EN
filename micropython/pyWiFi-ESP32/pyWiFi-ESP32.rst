@@ -29,7 +29,7 @@ Purchase
 
 Technical Support
 ------------------
-- support@01studio.org
+- support@01studio.cc
 
 
 About 01Studio
