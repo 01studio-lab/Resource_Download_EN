@@ -12,9 +12,10 @@ Introduction
 Contact us
 -----------------
 
-- Downlaod： http://en.01studio.cc/
-- Official online shop： https://www.aliexpress.com/store/5598484
-- support adn connect：support@01studio.cc  
+- Forum: http://forum.01studio.cc/
+- Downlaod: http://en.01studio.cc/
+- Official online shop: https://www.aliexpress.com/store/5598484
+- support adn connect: support@01studio.cc  
   
 News：
 

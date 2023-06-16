@@ -20,7 +20,8 @@ Purchase
 
 Technical Support
 ------------------
-- support@01studio.cc
+- Forum: https://forum.01studio.cc/
+- E-mail: support@01studio.cc
 
 
 About 01Studio
